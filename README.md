@@ -27,3 +27,6 @@ Languages and Tools:
 ![snake animation](https://github.com/crper/crper/blob/output/github-contribution-grid-snake.svg)
 
 ![](profile-3d-contrib/profile-night-rainbow.svg)
+
+## [The weather in Shenzhen in the last three days](https://github.com/crper/action-wttr-fetch-city)
+![](https://cdn.jsdelivr.net/gh/crper/action-wttr-fetch-city@main/assets/ShenZhen.png)
