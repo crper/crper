@@ -29,4 +29,4 @@ Languages and Tools:
 ![](profile-3d-contrib/profile-night-rainbow.svg)
 
 ## [The weather of Shenzhen in the last three days](https://github.com/crper/action-wttr-fetch-city)
-![](https://cdn.jsdelivr.net/gh/crper/action-wttr-fetch-city@main/assets/ShenZhen.png)
+![](https://github.com/crper/action-wttr-fetch-city/blob/main/assets/ShenZhen.png)
