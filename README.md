@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crper" alt="crper" /></a> </p>
 
-- 🔭 I’m currently working on **ONES**
-- 🌱 I’m currently learning **Rust,Go**
+- 🔭 I’m currently working on **待业中**
+- 🌱 I’m currently learning **Rust,Web3**
 - 👨‍💻 All of my projects are available at [https://github.com/crper](https://github.com/crper)
 - 📝 I regularly write articles on [https://www.yuque.com/crper/blog](https://www.yuque.com/crper/blog)
 - 💬 Ask me about **一个特立独行的俗人, 活着就不能停下思考， 尽量让生活变得充实,有趣！**
