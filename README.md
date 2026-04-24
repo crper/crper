@@ -79,6 +79,16 @@ TypeScript / React / Vue / Next.js / Python / Go / Tauri / Chrome Extension / AI
 
 ---
 
+## 🗓️ 3D Contribution
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crper/crper/output-3d-contrib/night.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crper/crper/output-3d-contrib/day.svg" />
+    <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/crper/crper/output-3d-contrib/day.svg" />
+  </picture>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=crper&style=flat-square&color=blueviolet" alt="profile views" />
 </p>
